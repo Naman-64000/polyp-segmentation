@@ -84,7 +84,8 @@ This project uses the **TransUNet** architecture, which combines the strengths o
 Here are some example results of the segmentation:
 
 - **Input Image with Predicted Segmentation**:  
-  ![Input Image with Predicted Segmentation]([images/result.png](https://github.com/Naman-64000/polyp-segmentation/blob/main/result.png?raw=true))
+  ![Input Image with Predicted Segmentation](https://github.com/Naman-64000/polyp-segmentation/blob/main/result.png?raw=true)
+
 
 
 ### Evaluation Metrics:
