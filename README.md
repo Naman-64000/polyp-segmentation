@@ -84,7 +84,7 @@ This project uses the **TransUNet** architecture, which combines the strengths o
 Here are some example results of the segmentation:
 
 - **Input Image with Predicted Segmentation**:  
-  ![Input Image with Predicted Segmentation](/Users/namanjaswani/Downloads/result.png)
+  ![Input Image with Predicted Segmentation](images/result.png)
 
 
 ### Evaluation Metrics:
